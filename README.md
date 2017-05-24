@@ -1,6 +1,8 @@
 # AutoIt Snippets
 Some of my personal UDF's and Small Functions.
 
+ - GetInfo.au3 `(Get the Basic Information from the System using the Windows Registry.)`
+
 ### Functions:
  - GetOS.au3 `(Gets te Operative System)`
  - GetAV.au3 `(Gets te AntiVirus Software)`
