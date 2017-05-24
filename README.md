@@ -1,6 +1,7 @@
 # AutoIt Snippets
 Some of my personal UDF's and Small Functions.
 
+### UDF's:
  - GetInfo.au3 `(Get the Basic Information from the System using the Windows Registry.)`
 
 ### Functions:
